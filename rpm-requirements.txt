@@ -1,0 +1,4 @@
+python-kombu
+python-oslo-config
+PyYAML
+python-taskflow

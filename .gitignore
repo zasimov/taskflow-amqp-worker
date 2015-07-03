@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*~
+dist
+build
+taskflow_amqp_worker.egg-info
+pbr-0.8.2-py2.7.egg
+AUTHORS
+ChangeLog

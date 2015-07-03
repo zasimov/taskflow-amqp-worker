@@ -1,0 +1,5 @@
+pbr==0.8.2
+oslo.config==1.9.3
+pyyaml==3.11
+kombu==3.0.26
+-e git+http://github.com/zasimov/taskflow@dev#egg=taskflow
